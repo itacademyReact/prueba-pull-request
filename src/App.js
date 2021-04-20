@@ -8,9 +8,9 @@ function App() {
         <p>
           Sprint 6 de IT Academy
         </p>
-        <p>
+        <span>
           Este es el ejercicio 2 del sprint 6
-        </p>
+        </span>
       </header>
     </div>
   );
